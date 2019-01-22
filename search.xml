@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
+    <title><![CDATA[-工作日志-]]></title>
     <url>%2F2019%2F01%2F21%2F%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97%2F</url>
-    <content type="text"><![CDATA[#工作日志 ##WEEK 01 2019011401: ABS系统》产品详情、编辑页面》账户详细信息展示的bug处理;//未处理 02: BILL》会员编码 数字改字符串 （涉及到很多地方）; 03: BILL》会员信息搜索框启动搜索字符长度改为2; 04: BILL》会员信息Excel生成，全部导入; 05: BILL》会员机构信息导入-----------------------------------------------------------( 数据源的问题--&gt;&apos;100817自贡银行股份有限公司&apos;) 2019011501: SUP系统》新建、检查SUP监管数据模块表结构(7张表); 02: SUP系统》新建、处理数据监管模块实体类; 03: SUP系统》数据监管模块字典配置; 04: SUP系统》产品基本信息 2019011601: 修改SectionService.batchInsertSections()方法; 02: 修复IAM投资建议流程bug; 2019011701: 新增投顾系统参数的空值判断，若为空则赋初值;(默认正回购需要领导审核；默认审核阈值100w.) 02: SUP系统》新建、检查SUP监管数据模块表结构(新增2张表); 03: SUP系统》新建、处理数据监管模块实体类; 04: SUP系统》产品基本信息维护; 05: ABS系统》菜单权限控制;(未完) 06: IAM系统》投资建议新增资产代码检索功能; 2019011801: IAM系统》投资建议状态 领导审核与风控审核 状态区分 ; 02: IAM系统》投资建议创建流程中新增“流转明细”信息展示; ##WEEK 02 2019012101: IAM系统》 a.投资建议状态 领导审核与风控审核 状态区分、 b.投资建议创建流程中新增“流转明细”信息展示、 c.投资建议新增资产代码检索功能 》测试、打补丁; 02: SUP系统》 场外回购明细信息查询与维护 03: SUP系统》 资产负债表信息查询与维护]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F01%2F21%2Fhello-world%20-%20%E5%89%AF%E6%9C%AC%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F01%2F21%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[##WEEK 01 2019011401: ABS系统》产品详情、编辑页面》账户详细信息展示的bug处理;//未处理 02: BILL》会员编码 数字改字符串 （涉及到很多地方）; 03: BILL》会员信息搜索框启动搜索字符长度改为2; 04: BILL》会员信息Excel生成，全部导入; 05: BILL》会员机构信息导入-----------------------------------------------------------( 数据源的问题--&gt;&apos;100817自贡银行股份有限公司&apos;) 2019011501: SUP系统》新建、检查SUP监管数据模块表结构(7张表); 02: SUP系统》新建、处理数据监管模块实体类; 03: SUP系统》数据监管模块字典配置; 04: SUP系统》产品基本信息 2019011601: 修改SectionService.batchInsertSections()方法; 02: 修复IAM投资建议流程bug; 2019011701: 新增投顾系统参数的空值判断，若为空则赋初值;(默认正回购需要领导审核；默认审核阈值100w.) 02: SUP系统》新建、检查SUP监管数据模块表结构(新增2张表); 03: SUP系统》新建、处理数据监管模块实体类; 04: SUP系统》产品基本信息维护; 05: ABS系统》菜单权限控制;(未完) 06: IAM系统》投资建议新增资产代码检索功能; 2019011801: IAM系统》投资建议状态 领导审核与风控审核 状态区分 ; 02: IAM系统》投资建议创建流程中新增“流转明细”信息展示; ##WEEK 02 2019012101: IAM系统》 a.投资建议状态 领导审核与风控审核 状态区分、 b.投资建议创建流程中新增“流转明细”信息展示、 c.投资建议新增资产代码检索功能 》测试、打补丁; 02: SUP系统》 场外回购明细信息查询与维护 03: SUP系统》 资产负债表信息查询与维护 2019012201: SUP系统》 结束SUP系统开发工作:a.资产负债表信息、 b.委托贷款信息、 c.企业债券信息 查询与维护; 02: SUP系统》 SUP系统访问权限控制;]]></content>
+      <categories>
+        <category>工作</category>
+      </categories>
   </entry>
 </search>
